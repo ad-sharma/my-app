@@ -13,6 +13,13 @@
         android:textSize="42sp"
         tools:hint="CarName"
         />
+    <TextView
+        android:id="@+id/vogella_text_vie2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="42sp"
+        tools:hint="CarName2"
+        />
 
 
 
